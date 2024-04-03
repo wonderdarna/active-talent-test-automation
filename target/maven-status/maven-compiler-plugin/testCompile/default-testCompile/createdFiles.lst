@@ -1,0 +1,9 @@
+org\stepdefinitions\LoginStepDefinitions.class
+org\context\Context.class
+org\page\DashboardPage.class
+org\page\SauceDemoBasePage.class
+org\page\LoginPage.class
+org\runners\TestRunner.class
+org\stepdefinitions\BaseSteps.class
+org\page\Page.class
+org\page\BasePage.class
